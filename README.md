@@ -5,7 +5,7 @@
 
 | 주차 | 주제 | 논문 | 발표자 |
 | :---- | :---- | :---- | :---- |
-| 1주 | LLM 평가 개괄 | A Survey on Evaluation of Large Language Models [\[링크\]](https://arxiv.org/abs/2307.03109) | 김기범 |
+| 1주 | LLM 평가 개괄 | A Survey on Evaluation of Large Language Models [\[링크\]](https://arxiv.org/abs/2307.03109)<br>A Systematic Survey and Critical Review on Evaluating Large Language Models: Challenges, Limitations, and Recommendations [\[링크\]](https://arxiv.org/abs/2407.04069) | 김기범 |
 | 2주 | Knowledge | GDPval: Evaluating AI Model Performance on Real-World Economically Valuable Tasks [\[링크\]](https://arxiv.org/abs/2510.04374)<br>GPQA: A Graduate-Level Google-Proof Q\&A Benchmark [\[링크\]](https://arxiv.org/abs/2311.12022) |  |
 | 3주 | Software Engineering | SWE-bench: Can Language Models Resolve Real-World GitHub Issues? [\[링크\]](https://arxiv.org/abs/2310.06770), Multimodal version [\[링크\]](https://arxiv.org/abs/2410.03859)<br>LiveBench: A Challenging, Contamination-Limited LLM Benchmark [\[링크\]](https://arxiv.org/abs/2406.19314) |  |
 | 4주 | Long-Context | LongBench v2 [\[링크\]](https://arxiv.org/abs/2412.15204)<br>Multimodal Needle in a Haystack [\[링크\]](https://arxiv.org/abs/2406.11230) |  |
