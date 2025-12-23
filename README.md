@@ -1,7 +1,7 @@
 
 
 ### 2026 LLM Evaluation 논문 스터디
-
+* 스터디 참여 신청 링크: [\[링크\]](https://docs.google.com/forms/d/e/1FAIpQLSdb9gARubEseRAR2MyVqC_lRyxLlD6srUm-PuxuyvY3fKGlqw/viewform)
 
 | 주차 | 주제 | 논문 | 발표자 |
 | :---- | :---- | :---- | :---- |
