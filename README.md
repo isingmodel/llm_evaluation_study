@@ -1,7 +1,6 @@
 
 
 ### 2026 LLM Evaluation 논문 스터디
-* 스터디 참여 신청 링크: [\[링크\]](https://docs.google.com/forms/d/e/1FAIpQLSdb9gARubEseRAR2MyVqC_lRyxLlD6srUm-PuxuyvY3fKGlqw/viewform)
 
 | 주차 | 주제 | 논문 | 발표자 |
 | :---- | :---- | :---- | :---- |
@@ -16,6 +15,6 @@
 | 9주 | LLM-as-a-Judge | Prometheus 2: An Open Source Language Model Specialized in Evaluating Other Language Models [\[링크\]](https://arxiv.org/abs/2405.01535)<br>Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena [\[링크\]](https://openreview.net/forum?id=uccHPGDlao)<br>JudgeBench: A Benchmark for Evaluating Judges [\[링크\]](https://arxiv.org/abs/2410.12784) | 조성국 |
 | 10주 | Multimodal Reasoning | MMMU Benchmark [\[링크\]](https://arxiv.org/abs/2311.16502)<br>Humanity's Last Exam [\[링크\]](https://arxiv.org/abs/2501.14249) | choi at cutib |
 | 11주 | Thinking Process & Reasoning | Learning to Plan & Reason for Evaluation with Thinking-LLM-as-a-Judge [\[링크\]](https://arxiv.org/abs/2501.18099)<br>ARC-AGI-2 [\[링크\]](https://arxiv.org/abs/2505.11831) | 박진형 |
-| 12주 | Knowledge | GDPval: Evaluating AI Model Performance on Real-World Economically Valuable Tasks [\[링크\]](https://arxiv.org/abs/2510.04374)<br>GPQA: A Graduate-Level Google-Proof Q&A Benchmark [\[링크\]](https://arxiv.org/abs/2311.12022) | TBD |
+| 12주 | Knowledge | GDPval: Evaluating AI Model Performance on Real-World Economically Valuable Tasks [\[링크\]](https://arxiv.org/abs/2510.04374)<br>GPQA: A Graduate-Level Google-Proof Q&A Benchmark [\[링크\]](https://arxiv.org/abs/2311.12022) | 김정훈 |
 | 13주 | Evaluation in Investment & Quant | TBD | 김현재 |
 
