@@ -4,7 +4,7 @@
 
 | 주차 | 주제 | 논문 | 발표자 | 발표자료 | 영상 |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| 1주 | LLM 평가 개괄 | A Survey on Evaluation of Large Language Models [\[링크\]](https://arxiv.org/abs/2307.03109)<br>A Systematic Survey and Critical Review on Evaluating Large Language Models: Challenges, Limitations, and Recommendations [\[링크\]](https://arxiv.org/abs/2407.04069) | 김기범 | [📄](data/01%20LLM%20Evaluation_%20Overview.pdf) | |
+| 1주 | LLM 평가 개괄 | A Survey on Evaluation of Large Language Models [\[링크\]](https://arxiv.org/abs/2307.03109)<br>A Systematic Survey and Critical Review on Evaluating Large Language Models: Challenges, Limitations, and Recommendations [\[링크\]](https://arxiv.org/abs/2407.04069) | 김기범 | [📄](data/01%20LLM%20Evaluation_%20Overview.pdf) | [🎥](https://www.youtube.com/watch?v=RMOZFEo9Yzo&feature=youtu.be) |
 | 2주 | Long-Context | LongBench v2 [\[링크\]](https://arxiv.org/abs/2412.15204)<br>Multimodal Needle in a Haystack [\[링크\]](https://arxiv.org/abs/2406.11230) | 조동헌 | | |
 | 3주 | 지표 붕괴, Goodhart's law | The Leaderboard Illusion [\[링크\]](https://arxiv.org/abs/2504.20879)<br>Line Goes Up? Inherent Limitations of Benchmarks for Evaluating Large Language Models [\[링크\]](https://arxiv.org/abs/2502.14318) | 한완규 | | |
 | 4주 | Software Engineering | SWE-bench: Can Language Models Resolve Real-World GitHub Issues? [\[링크\]](https://arxiv.org/abs/2310.06770), Multimodal version [\[링크\]](https://arxiv.org/abs/2410.03859)<br>LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code[\[링크\]](https://arxiv.org/abs/2403.07974) | 박진우 | | |
