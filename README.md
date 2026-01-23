@@ -14,7 +14,7 @@
 | 8주 | Textual & Content Safety | HarmBench: A Standardized Evaluation Framework for Automated Red Teaming[\[링크\]](https://arxiv.org/abs/2402.04249) <br>A StrongREJECT for Empty Jailbreaks[\[링크\]](https://arxiv.org/abs/2402.10260)<br>TrustLLM: Trustworthiness in LLMs [\[링크\]](https://arxiv.org/abs/2401.05561)| 홍소현 | | |
 | 9주 | Agentic & Behavioral Safety | Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents [\[링크\]](https://arxiv.org/abs/2410.02644)<br>AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents[\[링크\]](https://arxiv.org/abs/2410.09024)| 이동건 | | |
 | 10주 | LLM-as-a-Judge | Prometheus 2: An Open Source Language Model Specialized in Evaluating Other Language Models [\[링크\]](https://arxiv.org/abs/2405.01535)<br>Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena [\[링크\]](https://openreview.net/forum?id=uccHPGDlao)<br>JudgeBench: A Benchmark for Evaluating Judges [\[링크\]](https://arxiv.org/abs/2410.12784) | 조성국 | | |
-| 11주 | Multimodal Reasoning | MMMU Benchmark [\[링크\]](https://arxiv.org/abs/2311.16502)<br>Humanity's Last Exam [\[링크\]](https://arxiv.org/abs/2501.14249) | choi at cutib | | |
+| 11주 | Multimodal Reasoning | MMMU Benchmark [\[링크\]](https://arxiv.org/abs/2311.16502)<br>Humanity's Last Exam [\[링크\]](https://arxiv.org/abs/2501.14249) | 최동혁 | | |
 | 12주 | Thinking Process & Reasoning | Measuring Faithfulness in Chain-of-Thought Reasoning[\[링크\]](https://arxiv.org/abs/2307.13702)<br>Evaluating Mathematical Reasoning Beyond Accuracy[\[링크\]](https://arxiv.org/abs/2404.05692) | 박진형 | | |
 | 13주 | Evaluation in Investment & Quant | TBD | 김현재 | | |
 
