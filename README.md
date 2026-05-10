@@ -21,6 +21,6 @@
 | 10 | Agents - Tool Use | AGENTBENCH: Evaluating LLMs as Agents[\[링크\]](https://arxiv.org/abs/2308.03688) <br>StableToolBench: Towards Stable Large-Scale Benchmarking on Tool Learning of Large Language Models[\[링크\]](https://arxiv.org/abs/2403.07714) <br>MCP-Universe: Benchmarking Large Language Models with Real-World Model Context Protocol Servers[\[링크\]](https://openreview.net/forum?id=ffYd6uJpJE) | 김강민 | [📄](data/10_LLM_Tool_use.pdf) |
 | - | Twenty Questions Benchmark | Twenty Questions Benchmark[\[링크\]](https://github.com/isingmodel/twenty-questions-benchmark) | 김기범 | [🎥](https://youtu.be/77SQe840gn0?si=m39oTL2X5VCC9QW0) |  
 | 11 | Thinking Process & Reasoning | Measuring Faithfulness in Chain-of-Thought Reasoning[\[링크\]](https://arxiv.org/abs/2307.13702)<br>Evaluating Mathematical Reasoning Beyond Accuracy[\[링크\]](https://arxiv.org/abs/2404.05692) | 박진형 | [🎥](https://youtu.be/tBGMvDWyIvc?si=jUAhwu1Dv64a7Q-Z) |
-| 12 | Multimodal Reasoning | MMMU Benchmark [\[링크\]](https://arxiv.org/abs/2311.16502)<br>Humanity's Last Exam [\[링크\]](https://arxiv.org/abs/2501.14249) | 최동혁 |  |
+| 12 | Multimodal Reasoning | MMMU Benchmark [\[링크\]](https://arxiv.org/abs/2311.16502)<br>Humanity's Last Exam [\[링크\]](https://arxiv.org/abs/2501.14249) | 최동혁 |[📄](data/12_Multimodal_Reasoning.pdf)[🎥](https://youtu.be/RzgvvOH24mg?si=jCZ9mDB3bgWYGVz3)|
 
 <!-- STUDY_TABLE:END -->
